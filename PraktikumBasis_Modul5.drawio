@@ -102,19 +102,19 @@
         <mxCell id="0hYQv4CrJlilwdC6X-WE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-8" target="E8AWklwqzeVxcJrZ04S5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S7nswQnjVDZQh3axw3k2-8" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S7nswQnjVDZQh3axw3k2-8" value="Memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="960" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0hYQv4CrJlilwdC6X-WE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-9" target="E8AWklwqzeVxcJrZ04S5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S7nswQnjVDZQh3axw3k2-9" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S7nswQnjVDZQh3axw3k2-9" value="Memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="960" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0hYQv4CrJlilwdC6X-WE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-10" target="E8AWklwqzeVxcJrZ04S5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S7nswQnjVDZQh3axw3k2-10" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S7nswQnjVDZQh3axw3k2-10" value="Mengikuti" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="960" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iuv4qGmuOlghLT962XNh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-11" target="E8AWklwqzeVxcJrZ04S5-11">
