@@ -99,7 +99,7 @@
         <mxCell id="dEOOMXxoyeCx2zybJZHj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-7" target="E8AWklwqzeVxcJrZ04S5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S7nswQnjVDZQh3axw3k2-7" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S7nswQnjVDZQh3axw3k2-7" value="Dimiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1215" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0hYQv4CrJlilwdC6X-WE-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S7nswQnjVDZQh3axw3k2-8" target="E8AWklwqzeVxcJrZ04S5-10">
